@@ -1,18 +1,18 @@
 # Diwali Sales Analysis
-##Project: Diwali Sales Analysis using Python
+## Project: Diwali Sales Analysis using Python
 
-##Tools Used:
+## Tools Used:
 - Pandas: For data manipulation and cleaning
 - NumPy: For numerical operations
 - Matplotlib & Seaborn: For data visualization
 
-##Key Highlights:
+## Key Highlights:
 
-##Data Cleaning & Processing:
+## Data Cleaning & Processing:
 - Imported and cleaned the data, addressing missing values and irrelevant columns
 - Analyzed data dimensions and types, focusing on key attributes like Age, Orders, and Amount
 
-##Visualizations & Insights:
+## Visualizations & Insights:
 - Gender Analysis: Females emerged as the primary buyers with higher purchasing power
 - Age Groups: Most purchases originated from the 26-35 age group
 - State Analysis: Uttar Pradesh, Maharashtra, and Karnataka led in orders and sales
