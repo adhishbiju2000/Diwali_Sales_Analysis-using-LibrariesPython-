@@ -1,11 +1,11 @@
 # Diwali Sales Analysis
-## Project: Diwali Sales Analysis using Python
+## Project: Diwali Sales Analysis using Python and its various library in Jupyter Notebook
 
 ## Tools Used:
 - Pandas: For data manipulation and cleaning
 - NumPy: For numerical operations
 - Matplotlib & Seaborn: For data visualization
-
+  
 ## Key Highlights:
 
 ## Data Cleaning & Processing:
