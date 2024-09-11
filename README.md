@@ -1,4 +1,4 @@
-![20](https://github.com/user-attachments/assets/9b1776fc-8305-4fe9-97b0-160fced84544)# Diwali Sales Analysis
+# Diwali Sales Analysis
 ## Project: Diwali Sales Analysis using Python and its various library in Jupyter Notebook
 
 ## Tools Used:
