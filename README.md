@@ -5,7 +5,8 @@
 - Pandas: For data manipulation and cleaning
 - NumPy: For numerical operations
 - Matplotlib & Seaborn: For data visualization
-  
+  ![1](https://github.com/user-attachments/assets/2041f8c3-623f-4eb9-bc32-fb228c5fccd2)
+
 ## Key Highlights:
 
 ## Data Cleaning & Processing:
